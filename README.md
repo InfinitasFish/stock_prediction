@@ -1,4 +1,5 @@
 Соревнование: https://www.kaggle.com/competitions/stock-price-prediction-challenge/overview
+
 Задача: предсказать цену пяти безымянных акций на 10 дней вперед.
 
 В качестве моделей использовались: 
